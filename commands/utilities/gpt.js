@@ -16,7 +16,7 @@ const openai = new OpenAIApi(config);
 const text = args.join(' ')
     
     const response = await openai.createChatCompletion({
-        model: "gpt-3.5-turbo",
+        model: "gpt-3.5-turbo-instruct",
         messages: [
         { role: 'system', content: 'Você é um bot do discord chamado Ajudante.' },
         { role: 'system', content: 'Você está dentro de ambiente com node.js' },
