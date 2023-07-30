@@ -15,16 +15,12 @@ const openai = new OpenAIApi(config);
     }
 const text = args.join(' ')
     
-    const response = await openai.createChatCompletion({
-        model: "gpt-3.5-turbo-instruct",
-        messages: [
-        { role: 'system', content: 'Você é um bot do discord chamado Ajudante.' },
-        { role: 'system', content: 'Você está dentro de ambiente com node.js' },
-        {role: "user", content: `${text}`}, // Conteúdo da mensagem do usuário
-      ],
+    const response = await openai.createCompletion({
+        model: "text-davinci-003",
+        prompt: `${text}`,
         user: message.author.username,
     });
-const responsech = await response.data.choices[0].message 
+const responsech = await response.data.choices[0].text 
 await message.reply(responsech)
   }
-  }
+        }
