@@ -33,7 +33,7 @@ module.exports = {
       const serverHost = serverData.hostname
 
       // Monta o link para adicionar o servidor ao Minecraft Bedrock
-      const link = `https://suinua.github.io/AddExternalServer/?name=${encodeURIComponent(serverName)}&ip=${encodeURIComponent(serverIp)}&port=${encodeURIComponent(serverPort)}`;
+      const link = `https://lucas46521.github.io/AddExternalServer/?name=${encodeURIComponent(serverName)}&ip=${encodeURIComponent(serverIp)}&port=${encodeURIComponent(serverPort)}`;
 
       // Cria o botão de exportar
       const exportButton = new ButtonBuilder()
