@@ -85,10 +85,10 @@ _**Please give me proper credit when you use it, especially if you want to edit 
 ---
 
 ## Contact
-Discord: `Nathaniel VFX#8080`
+Discord: `lgquest`
 
 If you have any problem, feel free to contact me. 😉
 
-<img src="https://discord.c99.nl/widget/theme-2/753180650202202154.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-2/769969803526930504.png" alt="Discord"/>
 # Ajudante-2.0
 # Ajudante2
