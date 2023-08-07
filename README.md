@@ -1,7 +1,7 @@
 <h1 align="center">
    Discord.js v14 Command-Handlers
 </h1>
-<h4 align="center">Commands, Events, Permissions and Cooldown Handlers for Discord.js v14 bot ~ Made by Nathaniel</h4>
+<h4 align="center">Commands, Events, Permissions and Cooldown Handlers for Discord.js v14 bot ~ Made by Lucas46521</h4>
 
 <p align="center">
 <a href="https://nodejs.org/en/download/">
@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/discord.js-v14-blue?style=for-the-badge" alt="discord.js">
 </a>
 
-<a href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers">
+<a href="https://github.com/Lucas46521/Ajudante">
    <img src="https://img.shields.io/badge/version-latest-red?style=for-the-badge" alt="node.js">
 </a>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
    
-<a href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers/fork">
+<a href="https://github.com/Lucas46521/Ajudante/fork">
    <img src="https://img.shields.io/badge/Fork-github-blueviolet?logo=githubactions&logoColor=white&style=for-the-badge" alt="github-fork">
 </a>
    
@@ -34,16 +34,16 @@
  
 <p align="center">
 
-<a href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers">
-   <img src="https://img.shields.io/github/forks/Nathaniel-VFX/Discord.js-v14-Command-Handlers?logo=githubactions&logoColor=success&style=social" alt="github-fork">
+<a href="https://github.com/Lucas46521/Ajudante">
+   <img src="https://img.shields.io/github/forks/Lucas46521/Ajudante?logo=githubactions&logoColor=success&style=social" alt="github-fork">
 </a>
 
-<a href="https://github.com/Nathaniel-VFX/Discord.js-v14-Command-Handlers">
-   <img src="https://img.shields.io/github/stars/Nathaniel-VFX/Discord.js-v14-Command-Handlers?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
+<a href="https://github.com/Lucas46521/Ajudante">
+   <img src="https://img.shields.io/github/stars/Lucas46521/Ajudante?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
 </a>
 
-<a href="https://github.com/Nathaniel-VFX">
-   <img src="https://img.shields.io/github/followers/Nathaniel-VFX?label=Follow&logo=github&style=social" alt="github-follow">
+<a href="https://github.com/Lucas46521">
+   <img src="https://img.shields.io/github/follower/Lucas46521?label=Follow&logo=github&style=social" alt="github-follow">
 </a>
   
 </p>
