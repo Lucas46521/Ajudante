@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/Lucas46521">
-   <img src="https://img.shields.io/github/follower/Lucas46521?label=Follow&logo=github&style=social" alt="github-follow">
+   <img src="https://img.shields.io/github/follow/Lucas46521?label=Follow&logo=github&style=social" alt="github-follow">
 </a>
   
 </p>
